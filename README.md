@@ -18,29 +18,13 @@
 ##  My Tech Stack
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=java&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC++-181717?style=for-the-badge&logo=c)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-181717?style=for-the-badge&logo=html5)
-![SQL](https://img.shields.io/badge/SQL-181717?style=for-the-badge&logo=mysql)
+`Python` `JavaScript` `TypeScript` `Java` `C/C++` `HTML/CSS` `SQL`
 
 **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-181717?style=for-the-badge&logo=angular)
-![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/jQuery-181717?style=for-the-badge&logo=jquery)
-![Next.js](https://img.shields.io/badge/Next.js-181717?style=for-the-badge&logo=next.js)
+`React` `Angular` `Node.js` `Express` `Bootstrap` `jQuery` `Next.js`
 
 **Databases & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql)
-![Figma](https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma)
-![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git)
-![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-181717?style=for-the-badge&logo=trello)
+`MongoDB` `MySQL` `Figma` `Git` `Agile/Scrum`
 
 ---
 
