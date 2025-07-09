@@ -37,7 +37,7 @@ MongoDB • MySQL • Figma • Git • VS Code • Postman • Firebase • Agi
 ## Highlights
 
 - Chancellor’s Award Recipient, Dean's List @ UMass
-- 🇺🇸 Cultural Ambassador through U.S. Dept. of State’s Youth Exchange Program
+- Alumnus, Kennedy-Lugar Youth Exchange and Study (YES) Program 2021-22
 
 ---
 
