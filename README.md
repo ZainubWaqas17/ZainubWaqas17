@@ -7,7 +7,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 - Passionate about Gen AI, scalable full-stack systems, and intuitive frontend experiences  
 - Previously built tourism platforms, healthcare tools, and logistics systems  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 My Tech Stack
+##  My Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white)
@@ -40,14 +40,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql)
 ![Figma](https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma)
 ![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman)
-![Firebase](https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=firebase)
 ![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-181717?style=for-the-badge&logo=trello)
 
 ---
 
-## 💡 Featured Projects
+##  Featured Projects
 
 - **AI API Response Mapper** – Developed at Marriott to convert & validate API responses using Gen AI, boosting dev speed by 50%  
 - **GoLocal Guide** – Full-stack tourism app (MEAN) connecting users to 50+ hotels, restaurants & attractions with interactive maps  
@@ -56,14 +53,14 @@
 
 ---
 
-## 🏆 Highlights
+##  Highlights
 
 - Chancellor’s Award Recipient, Dean's List @ UMass  
 - Alumnus, Kennedy-Lugar Youth Exchange and Study (YES) Program 2021–22  
 
 ---
 
-## ☕ Let's Connect
+##  Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zwaqas)  
 - 🌐 Portfolio (coming soon)*  
