@@ -7,7 +7,7 @@ CS @ UMass Amherst | SWE Intern @ Marriott | Full-Stack Dev @ Systems Limited
 ## About Me
 
 - Passionate about Gen AI, scalable full-stack systems, and intuitive frontend experiences
-- Previously built tourism platforms, healthcare tools, and logistics systems used by real customers
+- Previously built tourism platforms, healthcare tools, and logistics systems
 - I enjoy cross-cultural collaboration (Youth Exchange alum 🇵🇰 → 🇺🇸) and solving real-world problems with code
 
 ---
