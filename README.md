@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Zainub  
-**CS @ UMass Amherst | SWE Intern @ Marriott | Full-Stack Dev @ Systems Limited**
+**CS @ UMass Amherst | Full-Stack Dev @ Systems Limited | former SWE Intern @ Marriott **
 
 </div>
 
