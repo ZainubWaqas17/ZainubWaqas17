@@ -18,35 +18,30 @@
 ##  My Tech Stack
 
 **Languages:**  
-`Python` `JavaScript` `TypeScript` `Java` `C/C++` `HTML/CSS` `SQL`
+`Python` `JavaScript` `TypeScript` `Java` `C/C++` `HTML/CSS` `SQL` `R`
 
 **Frameworks & Libraries**  
 `React` `Angular` `Node.js` `Express` `Bootstrap` `jQuery` `Next.js`
 
 **Databases & Tools**  
-`MongoDB` `MySQL` `Figma` `Git` `Agile/Scrum`
+`MongoDB` `MySQL` `Figma` `Git` `Azure` `Jupyter` `Hugging Face` `Agile/Scrum`    
 
 ---
 
 ##  Featured Projects
 
-- **AI API Response Mapper** – Developed at Marriott to convert & validate API responses using Gen AI, boosting dev speed by 50%  
-- **GoLocal Guide** – Full-stack tourism app (MEAN) connecting users to 50+ hotels, restaurants & attractions with interactive maps  
-- **Virtual Voice Assistant** – Built an AI assistant using NLP & task prioritization models to increase user productivity by 30%  
-- **Patient Triage System** – Streamlined hospital-to-insurance workflows, reducing bottlenecks in healthcare reimbursements  
-
----
-
-##  Highlights
-
-- Chancellor’s Award Recipient, Dean's List @ UMass  
-- Alumnus, Kennedy-Lugar Youth Exchange and Study (YES) Program 2021–22  
+- **AI Job Hunting Co-Pilot** – Automates resume tailoring, cover letter generation, interview prep, and application tracking; integrated LinkedIn, LeetCode, and Google Calendar APIs.
+- **Metro Bus Route Planner** – First digital route planner for Islamabad’s Metro; AI-powered travel assistance reduces planning time by 60%.
+- **GoLocal Guide** – Full-stack tourism app with secure booking and trip planning, boosting planning efficiency by 40%.
+- **Thinkerly** – Cross-platform productivity app with task timers and real-time task storage, improving task completion by 30%.
+- **Virtual Voice Assistant** – AI assistant using NLP & task prioritization models to increase user productivity by 30%.
+- **Patient Triage System** – Streamlined hospital-to-insurance workflows, reducing bottlenecks in healthcare reimbursements.
 
 ---
 
 ##  Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zwaqas)  
-- 🌐 Portfolio (coming soon)*  
+- 🌐 [Portfolio](https://zwaqas.vercel.app/)  
 - ✉️ zwaqas@umass.edu  
 - 🙋‍♀️ Open to coffee chats!
